@@ -2,7 +2,7 @@
 
 ## Supported Markets
 
-Freqtrade supports spot trading, as well as (isolated) futures trading for some selected exchanges. Please refer to the [documentation start page](index.md#supported-futures-exchanges-experimental) for an up-to-date list of supported exchanges.
+Freqtrade supports spot trading, as well as futures trading for some selected exchanges. Please refer to the [documentation start page](index.md#supported-futures-exchanges-experimental) for an up-to-date list of supported exchanges.
 
 ### Can my bot open short positions?
 
@@ -296,6 +296,13 @@ Nobody affiliated with the freqtrade project will ask you about your exchange ke
 Should you be asked to expose your exchange keys or send funds to some random wallet, then please don't follow these instructions.
 
 Failing to follow these guidelines will not be responsibility of freqtrade.
+
+## Support policy
+
+We provide free support for Freqtrade on our [Discord server](https://discord.gg/p7nuUNVfP7) and via GitHub issues.
+We only support the most recent release (e.g. 2025.8) and the current development branch (e.g. 2025.9-dev).
+
+If you're on an older version, please follow the [upgrade instructions](updating.md) and see if your problem has already been addressed.
 
 ## "Freqtrade token"
 
